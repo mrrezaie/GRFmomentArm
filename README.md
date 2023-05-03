@@ -4,4 +4,4 @@
  Calculate GRF moment arm and moment about wholebody center of mass.
 
 
-![Sample graph](activity.png)
+![Sample graph](image.png)
