@@ -1,0 +1,159 @@
+[2023-05-03 16:14:28.674] [info] Loaded model subject_scale_walk_scaleOnly from file input2/out_scaled.osim
+[2023-05-03 16:14:28.748] [warning] Couldn't find file 'r_pelvis.vtp'.
+[2023-05-03 16:14:28.749] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2023-05-03 16:14:28.749] [warning] Couldn't find file 'sacrum.vtp'.
+[2023-05-03 16:14:28.749] [warning] Couldn't find file 'r_femur.vtp'.
+[2023-05-03 16:14:28.750] [warning] Couldn't find file 'r_tibia.vtp'.
+[2023-05-03 16:14:28.750] [warning] Couldn't find file 'r_fibula.vtp'.
+[2023-05-03 16:14:28.750] [warning] Couldn't find file 'r_patella.vtp'.
+[2023-05-03 16:14:28.751] [warning] Couldn't find file 'r_talus.vtp'.
+[2023-05-03 16:14:28.751] [warning] Couldn't find file 'r_foot.vtp'.
+[2023-05-03 16:14:28.752] [warning] Couldn't find file 'r_bofoot.vtp'.
+[2023-05-03 16:14:28.752] [warning] Couldn't find file 'l_femur.vtp'.
+[2023-05-03 16:14:28.752] [warning] Couldn't find file 'l_tibia.vtp'.
+[2023-05-03 16:14:28.753] [warning] Couldn't find file 'l_fibula.vtp'.
+[2023-05-03 16:14:28.753] [warning] Couldn't find file 'l_patella.vtp'.
+[2023-05-03 16:14:28.753] [warning] Couldn't find file 'l_talus.vtp'.
+[2023-05-03 16:14:28.753] [warning] Couldn't find file 'l_foot.vtp'.
+[2023-05-03 16:14:28.754] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2023-05-03 16:14:28.754] [warning] Couldn't find file 'hat_spine.vtp'.
+[2023-05-03 16:14:28.754] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2023-05-03 16:14:28.755] [warning] Couldn't find file 'hat_skull.vtp'.
+[2023-05-03 16:14:28.755] [warning] Couldn't find file 'hat_ribs_scap.vtp'.
+[2023-05-03 16:14:28.928] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 16:22:26.421] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 16:23:07.708] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 16:25:55.730] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 16:27:34.682] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 16:28:23.562] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 16:29:32.899] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 16:29:59.120] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 16:34:17.765] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 16:42:53.879] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 16:42:57.678] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 16:43:00.264] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 16:43:01.900] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 16:43:32.379] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 16:46:47.694] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 16:46:54.274] [info] Loaded model subject_scale_walk_scaleOnly from file input2/out_scaled.osim
+[2023-05-03 16:46:54.335] [warning] Couldn't find file 'r_pelvis.vtp'.
+[2023-05-03 16:46:54.335] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2023-05-03 16:46:54.335] [warning] Couldn't find file 'sacrum.vtp'.
+[2023-05-03 16:46:54.336] [warning] Couldn't find file 'r_femur.vtp'.
+[2023-05-03 16:46:54.336] [warning] Couldn't find file 'r_tibia.vtp'.
+[2023-05-03 16:46:54.336] [warning] Couldn't find file 'r_fibula.vtp'.
+[2023-05-03 16:46:54.337] [warning] Couldn't find file 'r_patella.vtp'.
+[2023-05-03 16:46:54.337] [warning] Couldn't find file 'r_talus.vtp'.
+[2023-05-03 16:46:54.337] [warning] Couldn't find file 'r_foot.vtp'.
+[2023-05-03 16:46:54.337] [warning] Couldn't find file 'r_bofoot.vtp'.
+[2023-05-03 16:46:54.338] [warning] Couldn't find file 'l_femur.vtp'.
+[2023-05-03 16:46:54.338] [warning] Couldn't find file 'l_tibia.vtp'.
+[2023-05-03 16:46:54.338] [warning] Couldn't find file 'l_fibula.vtp'.
+[2023-05-03 16:46:54.338] [warning] Couldn't find file 'l_patella.vtp'.
+[2023-05-03 16:46:54.339] [warning] Couldn't find file 'l_talus.vtp'.
+[2023-05-03 16:46:54.339] [warning] Couldn't find file 'l_foot.vtp'.
+[2023-05-03 16:46:54.339] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2023-05-03 16:46:54.340] [warning] Couldn't find file 'hat_spine.vtp'.
+[2023-05-03 16:46:54.340] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2023-05-03 16:46:54.340] [warning] Couldn't find file 'hat_skull.vtp'.
+[2023-05-03 16:46:54.340] [warning] Couldn't find file 'hat_ribs_scap.vtp'.
+[2023-05-03 16:46:57.422] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 16:47:20.376] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 16:52:09.317] [info] Storage: read data file = input2/out_ik.mot (nr=238 nc=26)
+[2023-05-03 16:52:13.544] [info] Storage: read data file = input2/out_ik.mot (nr=238 nc=26)
+[2023-05-03 16:57:42.421] [info] Storage: read data file = input2/out_ik.mot (nr=238 nc=26)
+[2023-05-03 17:14:08.533] [info] Loaded model subject_scale_walk_scaleOnly from file input2/out_scaled.osim
+[2023-05-03 17:14:08.534] [warning] Couldn't find file 'r_pelvis.vtp'.
+[2023-05-03 17:14:08.535] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2023-05-03 17:14:08.535] [warning] Couldn't find file 'sacrum.vtp'.
+[2023-05-03 17:14:08.535] [warning] Couldn't find file 'r_femur.vtp'.
+[2023-05-03 17:14:08.536] [warning] Couldn't find file 'r_tibia.vtp'.
+[2023-05-03 17:14:08.536] [warning] Couldn't find file 'r_fibula.vtp'.
+[2023-05-03 17:14:08.536] [warning] Couldn't find file 'r_patella.vtp'.
+[2023-05-03 17:14:08.537] [warning] Couldn't find file 'r_talus.vtp'.
+[2023-05-03 17:14:08.537] [warning] Couldn't find file 'r_foot.vtp'.
+[2023-05-03 17:14:08.537] [warning] Couldn't find file 'r_bofoot.vtp'.
+[2023-05-03 17:14:08.538] [warning] Couldn't find file 'l_femur.vtp'.
+[2023-05-03 17:14:08.538] [warning] Couldn't find file 'l_tibia.vtp'.
+[2023-05-03 17:14:08.538] [warning] Couldn't find file 'l_fibula.vtp'.
+[2023-05-03 17:14:08.538] [warning] Couldn't find file 'l_patella.vtp'.
+[2023-05-03 17:14:08.539] [warning] Couldn't find file 'l_talus.vtp'.
+[2023-05-03 17:14:08.539] [warning] Couldn't find file 'l_foot.vtp'.
+[2023-05-03 17:14:08.539] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2023-05-03 17:14:08.539] [warning] Couldn't find file 'hat_spine.vtp'.
+[2023-05-03 17:14:08.540] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2023-05-03 17:14:08.540] [warning] Couldn't find file 'hat_skull.vtp'.
+[2023-05-03 17:14:08.540] [warning] Couldn't find file 'hat_ribs_scap.vtp'.
+[2023-05-03 17:14:08.722] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 17:15:39.765] [info] Loaded model subject_scale_walk_scaleOnly from file input2/out_scaled.osim
+[2023-05-03 17:15:39.766] [warning] Couldn't find file 'r_pelvis.vtp'.
+[2023-05-03 17:15:39.767] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2023-05-03 17:15:39.767] [warning] Couldn't find file 'sacrum.vtp'.
+[2023-05-03 17:15:39.767] [warning] Couldn't find file 'r_femur.vtp'.
+[2023-05-03 17:15:39.768] [warning] Couldn't find file 'r_tibia.vtp'.
+[2023-05-03 17:15:39.768] [warning] Couldn't find file 'r_fibula.vtp'.
+[2023-05-03 17:15:39.768] [warning] Couldn't find file 'r_patella.vtp'.
+[2023-05-03 17:15:39.768] [warning] Couldn't find file 'r_talus.vtp'.
+[2023-05-03 17:15:39.769] [warning] Couldn't find file 'r_foot.vtp'.
+[2023-05-03 17:15:39.769] [warning] Couldn't find file 'r_bofoot.vtp'.
+[2023-05-03 17:15:39.769] [warning] Couldn't find file 'l_femur.vtp'.
+[2023-05-03 17:15:39.770] [warning] Couldn't find file 'l_tibia.vtp'.
+[2023-05-03 17:15:39.770] [warning] Couldn't find file 'l_fibula.vtp'.
+[2023-05-03 17:15:39.770] [warning] Couldn't find file 'l_patella.vtp'.
+[2023-05-03 17:15:39.770] [warning] Couldn't find file 'l_talus.vtp'.
+[2023-05-03 17:15:39.771] [warning] Couldn't find file 'l_foot.vtp'.
+[2023-05-03 17:15:39.771] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2023-05-03 17:15:39.771] [warning] Couldn't find file 'hat_spine.vtp'.
+[2023-05-03 17:15:39.771] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2023-05-03 17:15:39.772] [warning] Couldn't find file 'hat_skull.vtp'.
+[2023-05-03 17:15:39.772] [warning] Couldn't find file 'hat_ribs_scap.vtp'.
+[2023-05-03 17:15:39.955] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 17:16:54.069] [info] Loaded model subject_scale_walk_scaleOnly from file input2/out_scaled.osim
+[2023-05-03 17:16:54.070] [warning] Couldn't find file 'r_pelvis.vtp'.
+[2023-05-03 17:16:54.071] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2023-05-03 17:16:54.071] [warning] Couldn't find file 'sacrum.vtp'.
+[2023-05-03 17:16:54.071] [warning] Couldn't find file 'r_femur.vtp'.
+[2023-05-03 17:16:54.072] [warning] Couldn't find file 'r_tibia.vtp'.
+[2023-05-03 17:16:54.072] [warning] Couldn't find file 'r_fibula.vtp'.
+[2023-05-03 17:16:54.072] [warning] Couldn't find file 'r_patella.vtp'.
+[2023-05-03 17:16:54.073] [warning] Couldn't find file 'r_talus.vtp'.
+[2023-05-03 17:16:54.073] [warning] Couldn't find file 'r_foot.vtp'.
+[2023-05-03 17:16:54.073] [warning] Couldn't find file 'r_bofoot.vtp'.
+[2023-05-03 17:16:54.074] [warning] Couldn't find file 'l_femur.vtp'.
+[2023-05-03 17:16:54.074] [warning] Couldn't find file 'l_tibia.vtp'.
+[2023-05-03 17:16:54.074] [warning] Couldn't find file 'l_fibula.vtp'.
+[2023-05-03 17:16:54.075] [warning] Couldn't find file 'l_patella.vtp'.
+[2023-05-03 17:16:54.075] [warning] Couldn't find file 'l_talus.vtp'.
+[2023-05-03 17:16:54.075] [warning] Couldn't find file 'l_foot.vtp'.
+[2023-05-03 17:16:54.076] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2023-05-03 17:16:54.076] [warning] Couldn't find file 'hat_spine.vtp'.
+[2023-05-03 17:16:54.076] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2023-05-03 17:16:54.076] [warning] Couldn't find file 'hat_skull.vtp'.
+[2023-05-03 17:16:54.077] [warning] Couldn't find file 'hat_ribs_scap.vtp'.
+[2023-05-03 17:16:54.259] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 17:17:31.764] [info] Loaded model subject_scale_walk_scaleOnly from file input2/out_scaled.osim
+[2023-05-03 17:17:31.765] [warning] Couldn't find file 'r_pelvis.vtp'.
+[2023-05-03 17:17:31.766] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2023-05-03 17:17:31.766] [warning] Couldn't find file 'sacrum.vtp'.
+[2023-05-03 17:17:31.766] [warning] Couldn't find file 'r_femur.vtp'.
+[2023-05-03 17:17:31.767] [warning] Couldn't find file 'r_tibia.vtp'.
+[2023-05-03 17:17:31.767] [warning] Couldn't find file 'r_fibula.vtp'.
+[2023-05-03 17:17:31.767] [warning] Couldn't find file 'r_patella.vtp'.
+[2023-05-03 17:17:31.768] [warning] Couldn't find file 'r_talus.vtp'.
+[2023-05-03 17:17:31.768] [warning] Couldn't find file 'r_foot.vtp'.
+[2023-05-03 17:17:31.768] [warning] Couldn't find file 'r_bofoot.vtp'.
+[2023-05-03 17:17:31.768] [warning] Couldn't find file 'l_femur.vtp'.
+[2023-05-03 17:17:31.769] [warning] Couldn't find file 'l_tibia.vtp'.
+[2023-05-03 17:17:31.769] [warning] Couldn't find file 'l_fibula.vtp'.
+[2023-05-03 17:17:31.769] [warning] Couldn't find file 'l_patella.vtp'.
+[2023-05-03 17:17:31.769] [warning] Couldn't find file 'l_talus.vtp'.
+[2023-05-03 17:17:31.770] [warning] Couldn't find file 'l_foot.vtp'.
+[2023-05-03 17:17:31.770] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2023-05-03 17:17:31.770] [warning] Couldn't find file 'hat_spine.vtp'.
+[2023-05-03 17:17:31.771] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2023-05-03 17:17:31.771] [warning] Couldn't find file 'hat_skull.vtp'.
+[2023-05-03 17:17:31.771] [warning] Couldn't find file 'hat_ribs_scap.vtp'.
+[2023-05-03 17:17:31.959] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 17:21:20.761] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 17:21:34.951] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
+[2023-05-03 17:21:49.810] [info] Storage: read data file = input2/exp_grf.mot (nr=4778 nc=19)
